@@ -1,0 +1,6 @@
+C:\BegVCSharp\Chapter03\DPChallenge1\DPChallenge1\bin\Debug\DPChallenge1.exe.config
+C:\BegVCSharp\Chapter03\DPChallenge1\DPChallenge1\bin\Debug\DPChallenge1.exe
+C:\BegVCSharp\Chapter03\DPChallenge1\DPChallenge1\bin\Debug\DPChallenge1.pdb
+C:\BegVCSharp\Chapter03\DPChallenge1\DPChallenge1\obj\Debug\DPChallenge1.csprojResolveAssemblyReference.cache
+C:\BegVCSharp\Chapter03\DPChallenge1\DPChallenge1\obj\Debug\DPChallenge1.exe
+C:\BegVCSharp\Chapter03\DPChallenge1\DPChallenge1\obj\Debug\DPChallenge1.pdb
